@@ -1,0 +1,21 @@
+~info
+#name Meateater
+#rcol 100
+#gcol 0
+#bcol 0
+~data
+]lmp
+]b
+~code
+mov @lmp 256
+:loop
+dec @lmp 1
+eql @lmp %memp
+goio *skip
+prob @b @lmp
+eql @b %ctyp
+goio *skip
+halt @lmp
+load @lmp
+:skip
+go *loop

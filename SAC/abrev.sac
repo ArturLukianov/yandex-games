@@ -1,0 +1,3 @@
+main:
+halt 100x
+prob @a 100x

@@ -1,0 +1,13 @@
+~info
+#name Toster
+#rcol 255
+#gcol 255
+#bcol 255
+~data
+]a
+~code
+:loop
+rand @a
+halt @a
+load @a
+go *loop

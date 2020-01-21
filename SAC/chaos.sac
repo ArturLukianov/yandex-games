@@ -1,0 +1,20 @@
+~data
+]a
+]b
+~code
+mov @a %memp
+!rand @b
+halt 0
+load 0
+add @a 1
+halt @a
+load @a
+dec @a 2
+halt @a
+load @a
+add @a 17
+halt @a
+load @a
+dec @a 32
+halt @a
+load @a

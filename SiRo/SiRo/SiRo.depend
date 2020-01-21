@@ -1,0 +1,248 @@
+# depslib dependency file v1.0
+1538471665 source:c:\users\test\desktop\siro\main.cpp
+	<iostream>
+	<windows.h>
+	<conio.h>
+
+1538726808 source:c:\users\user\desktop\siro\main.cpp
+	<iostream>
+	<windows.h>
+	<conio.h>
+	<string>
+	<map>
+	<random>
+	<time.h>
+	<algorithm>
+
+1543914424 source:d:\artur\siro\siro\main.cpp
+	<iostream>
+	<windows.h>
+	<conio.h>
+	<string>
+	<map>
+	<random>
+	<time.h>
+	<algorithm>
+	<queue>
+	"declarations.h"
+	"basic_lib.h"
+	"item_lib.h"
+	"main_functions.h"
+	"creature_lib.h"
+	"menus.h"
+	"item_resourses.h"
+	"creature_resourses.h"
+	"player_lib.h"
+	"item_functions.h"
+	"creature_functions.h"
+	"script_lib.h"
+	"script_resourses.h"
+	"game_functions.h"
+	"splash_screens.h"
+
+1541857054 source:e:\artur\siro\siro\main.cpp
+	<iostream>
+	<windows.h>
+	<conio.h>
+	<string>
+	<map>
+	<random>
+	<time.h>
+	<algorithm>
+	<queue>
+	"declarations.h"
+	"basic_lib.h"
+	"item_lib.h"
+	"main_functions.h"
+	"creature_lib.h"
+	"menus.h"
+	"item_resourses.h"
+	"creature_resourses.h"
+	"player_lib.h"
+	"item_functions.h"
+	"creature_functions.h"
+	"script_lib.h"
+	"script_resourses.h"
+	"game_functions.h"
+	"splash_screens.h"
+
+1539698532 source:d:\artur\siro\siro\siro.rc
+
+1542121456 d:\artur\siro\siro\declarations.h
+
+1542704608 d:\artur\siro\siro\basic_lib.h
+
+1541833506 d:\artur\siro\siro\item_lib.h
+
+1541660680 d:\artur\siro\siro\main_functions.h
+
+1543913702 d:\artur\siro\siro\creature_lib.h
+
+1540199222 d:\artur\siro\siro\menus.h
+
+1545477712 d:\artur\siro\siro\item_resourses.h
+
+1545477800 d:\artur\siro\siro\creature_resourses.h
+
+1539784692 d:\artur\siro\siro\player_lib.h
+
+1541749646 d:\artur\siro\siro\item_functions.h
+
+1543913882 d:\artur\siro\siro\creature_functions.h
+
+1545478156 d:\artur\siro\siro\game_functions.h
+
+1541678660 source:f:\artur\siro\siro\main.cpp
+	<iostream>
+	<windows.h>
+	<conio.h>
+	<string>
+	<map>
+	<random>
+	<time.h>
+	<algorithm>
+	<queue>
+	"declarations.h"
+	"basic_lib.h"
+	"item_lib.h"
+	"main_functions.h"
+	"creature_lib.h"
+	"menus.h"
+	"item_resourses.h"
+	"creature_resourses.h"
+	"player_lib.h"
+	"item_functions.h"
+	"creature_functions.h"
+	"script_lib.h"
+	"script_resourses.h"
+	"game_functions.h"
+
+1541660242 f:\artur\siro\siro\declarations.h
+
+1541757888 f:\artur\siro\siro\basic_lib.h
+
+1541833506 f:\artur\siro\siro\item_lib.h
+
+1541660680 f:\artur\siro\siro\main_functions.h
+
+1541704100 f:\artur\siro\siro\creature_lib.h
+
+1540199222 f:\artur\siro\siro\menus.h
+
+1541780312 f:\artur\siro\siro\item_resourses.h
+
+1541780310 f:\artur\siro\siro\creature_resourses.h
+
+1539784692 f:\artur\siro\siro\player_lib.h
+
+1541749646 f:\artur\siro\siro\item_functions.h
+
+1540032256 f:\artur\siro\siro\creature_functions.h
+
+1541833672 f:\artur\siro\siro\game_functions.h
+
+1539698532 source:f:\artur\siro\siro\siro.rc
+
+1542121456 e:\artur\siro\siro\declarations.h
+
+1542302098 e:\artur\siro\siro\basic_lib.h
+
+1541833506 e:\artur\siro\siro\item_lib.h
+
+1541660680 e:\artur\siro\siro\main_functions.h
+
+1542303632 e:\artur\siro\siro\creature_lib.h
+
+1540199222 e:\artur\siro\siro\menus.h
+
+1541780312 e:\artur\siro\siro\item_resourses.h
+
+1542034550 e:\artur\siro\siro\creature_resourses.h
+
+1539784692 e:\artur\siro\siro\player_lib.h
+
+1541749646 e:\artur\siro\siro\item_functions.h
+
+1540032256 e:\artur\siro\siro\creature_functions.h
+
+1542305146 e:\artur\siro\siro\game_functions.h
+
+1539698532 source:e:\artur\siro\siro\siro.rc
+
+1542305056 d:\artur\siro\siro\script_lib.h
+
+1545477686 d:\artur\siro\siro\script_resourses.h
+
+1542305056 e:\artur\siro\siro\script_lib.h
+
+1542304978 e:\artur\siro\siro\script_resourses.h
+
+1541757154 f:\artur\siro\siro\script_lib.h
+
+1541780254 f:\artur\siro\siro\script_resourses.h
+
+1541858606 e:\artur\siro\siro\splash_screens.h
+
+1544536652 d:\artur\siro\siro\splash_screens.h
+
+1554014050 source:f:\projects\roguelike\siro\siro\main.cpp
+	<iostream>
+	<windows.h>
+	<conio.h>
+	<string>
+	<map>
+	<random>
+	<time.h>
+	<algorithm>
+	<queue>
+	"declarations.h"
+	"basic_lib.h"
+	"item_lib.h"
+	"main_functions.h"
+	"creature_lib.h"
+	"menus.h"
+	"item_resourses.h"
+	"creature_resourses.h"
+	"player_lib.h"
+	"item_functions.h"
+	"creature_functions.h"
+	"script_lib.h"
+	"script_resourses.h"
+	"skills.h"
+	"game_functions.h"
+	"splash_screens.h"
+
+1554018506 f:\projects\roguelike\siro\siro\declarations.h
+
+1554029950 f:\projects\roguelike\siro\siro\basic_lib.h
+
+1541833506 f:\projects\roguelike\siro\siro\item_lib.h
+
+1554028956 f:\projects\roguelike\siro\siro\main_functions.h
+
+1554014028 f:\projects\roguelike\siro\siro\creature_lib.h
+
+1540199222 f:\projects\roguelike\siro\siro\menus.h
+
+1545477712 f:\projects\roguelike\siro\siro\item_resourses.h
+
+1545477800 f:\projects\roguelike\siro\siro\creature_resourses.h
+
+1539784692 f:\projects\roguelike\siro\siro\player_lib.h
+
+1554014044 f:\projects\roguelike\siro\siro\item_functions.h
+
+1543913882 f:\projects\roguelike\siro\siro\creature_functions.h
+
+1554029650 f:\projects\roguelike\siro\siro\script_lib.h
+
+1554025892 f:\projects\roguelike\siro\siro\script_resourses.h
+
+1554051298 f:\projects\roguelike\siro\siro\game_functions.h
+
+1554017258 f:\projects\roguelike\siro\siro\splash_screens.h
+
+1539698532 source:f:\projects\roguelike\siro\siro\siro.rc
+
+1554026070 f:\projects\roguelike\siro\siro\skills.h
+

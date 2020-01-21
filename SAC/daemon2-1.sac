@@ -1,0 +1,41 @@
+~info
+#name Daemon2-1
+#rcol 200
+#gcol 0
+#bcol 100
+~data
+]lmp
+]tr
+]b
+~code
+mov @lmp %memp
+mov @tr 1
+prob @b 0
+eql @b 0
+goio *p1
+eql @b %ctyp
+gono *p2
+go *main
+:p1
+load 0
+go *main
+:p2
+halt 0
+load 0
+:main
+add @lmp @tr
+add @tr @tr
+eql @tr 32
+goio *reset
+prob @b @lmp
+eql @b 0
+goio *empty
+eql @b %ctyp
+goio *main
+halt @lmp
+:empty
+load @lmp
+go *main
+:reset
+mov @tr 1
+goto *main

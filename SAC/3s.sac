@@ -1,0 +1,18 @@
+~data
+]a
+]b
+]t
+~code
+mov @a %memp
+mov @t %ctyp
+:main
+add @a 1
+prob @b @a
+eql @b 0
+gono *check
+load @a
+:check
+eql @b @t
+goio *main
+halt @b
+go *main

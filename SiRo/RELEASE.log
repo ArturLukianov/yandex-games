@@ -1,0 +1,32 @@
+Current{
+    v: 0.9.0
+    FEATURES{
+        ITEMS
+        CREATURES
+        POTINOS
+        CURSED
+        THROWABLE
+        BOSSES
+        CREATURES INTELLECT
+        SCRIPTS
+        EVENTS
+        QUESTS
+        SKILLS
+    }
+}
+a0.9.0{
+    FIXED{
+        PICK UP FIX
+		
+    ADDED{
+        SKILLS BASE
+    }	
+
+}
+a0.9.1{
+    ADDED{
+        NEW TYPE [VOL]
+        EVENT: COINY RUSH
+        SPAWN ANIMATION
+    }
+}

@@ -1,0 +1,15 @@
+aa = b ** 2 + a ** 2
+bb = -2 * b * d * d + 2 * a * c + 2 * e * a * b
+cc = -(e * e * b * b + r * r * b * b)
+
+d = x0
+e = y0
+
+x + by + c = 0
+-c = x + by
+c = -(x + by)
+x=-(by+c)
+(x-d)**2+(y-e)**2=r**2
+(c+d+by)**2+(y-e)**2=r**2
+(by)**2+(c+d)**2+2bcy+2bdy+y**2-2ey+e**2=r**2
+(b**2+1)*(y**2)+2(bd+bc-e)y+((c+d)**2+e**2-r**2)=0

@@ -1,0 +1,168 @@
+Quest: Kill or be killed! 1 
+Task: survive at one health 100 turns.
+Award: healing potion
+
+Quest: You are not Prepared! 2 
+Task: live with negative attack and defense ??? turns.
+Award: (weapon or armor) and uncurse for all selected items.
+
+Quest:I'm your best friend!!! 4 
+Task: Heal 20 LP by Hm
+Award: turn all Hm into :)::
+
+Quest: Do what you want 'cause a pirate is free you are a pirate! 6
+Task: Try to pickup 11th item.
+Award:Inventory clear!
+
+Quest: Gluttony is me!!! 7 
+Task: Use ??? saint cookies.
+Award: Spawn gluttony.
+
+Quest: Will your lips taste the kiss of death? 8
+Task: Be damaged by allabsorbing.
+Award: Do something at the start of next game.
+
+Quest:But why? 9
+Task: Be damaged by YYY and still stay alive.
+Award:Give imbalance weapon.
+
+Quest:Fun guy!!! 10
+Task: Use ??? P?O?T?O?N's.
+Award:Give magic mushroom.
+P.S. I don't know what M. mush. could be.
+
+Quest:I will hunt you down! 11
+Task: Kill ??? animals.
+Award:Give crossbow.
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+Quest:Do you want to have a bed time? 12
+Task: Press "Enter" ??? times.
+Award:Spawn dlrow lecca.
+
+Quest: You shall not pass! 13
+Task: Have 5 Sloths on the board.
+Award:Replace Sloths with ???.
+
+Quest:Come and dance with me. 14
+Task: Be near the random walking monster ??? turns.
+Award:This mob turn randomly into friendly or agressive (50/50).
+
+Quest:Hello, world!  15 Hidden
+Task: Play 5 games.
+Award:Unlock quests menu.
+
+Quest:#%&TUKG*&%(*)  16
+Task: Kill 10 buqs.
+Award:Give player "#%&TUKG*&%(*)".
+P.S. I don't know what "#%&TUKG*&%(*)" could be.
+
+Quest:DON'T GO IT WILL EAT YOU! 17
+Task: Kill 5 InvevnI's.
+Award:ReveR SeS are useful now.
+
+Quest:B@GCAT isn't stupid! 18
+Task: Have 3 b@gcat's or b&gcat's on screen.
+Award:Replace monsters except b@gcat's or b&gcat's on screen with ,(allabsorbing).
+
+Quest:Are you fool??? 19
+Task :Be killed by healing mage(Hm ':')
+Award:Give "Coiny paladin" quest complete next game. 
+
+Quest:2Spooku4U. 20
+Task :Don't fight ??? turns.
+Award:morph.
+
+Quest:Banhammer Has Spoken! 21
+Task :Have more than 100 DEF or 50 ATK.
+Award:Spawn 4 allabsorrbing(,).
+
+Quest:Kill 15 coinys. 22
+Task :Kill 15 coinys.
+Award:Killed "You are too greedy to live".
+
+Quest:Magic is so fun,isn't it? 23
+Task :Use 30 SP.
+Award:limit of SP is rising.
+
+Quest:That mushrooms wasn't as cool as I thought. 24
+Task :Try to throw weapon at empty tile.
+Award:Double all monsters.
+
+Quest:Inner eye. 25
+Task :Kill 5 monsters with range weapon.
+Award:Current weapon atk*=3; atk/=2.
+
+Quest:Consolation prize. 26
+Task :Survive without equipment until wave 3(at the moment of wave you haven't equipment) or achieve 31 quest.
+Award:All for coiny paladin. 
+
+Quest:Don't touch the 'T'. Hidden 27
+Task :Have 3 trytocatchme's on the screen.
+Award:Unlock useful help menu(if you complete minigame unlock tip(in this menu) or new item(for next games))
+
+Quest:yt heccrbq xnj kb? 28
+Task :7 or 8 or 26 or 31 quest.
+Award:Give shapka-ushanka,balalayka.
+P.S.         ARM            WEP
+
+Quest:Card master. 29
+Task :Achieve 2 and 5 and 6 and 11 and 14.
+Award:Deck of cards.
+P.S maybe BOK.
+
+Quest:Absolutely not Gandalf 30
+Task :Achieve 23 and 13.
+Award:Magic wand.
+P.S.  melee weapon.
+
+Quest:You are impenetrable! 31
+Task :Have more than 9 TP.
+Award:SPUP:POT for -10TP.
+
+Quest:You are almost b@gcatlike!!!!!. 32
+Task :complete all other quests.
+Award:You've completed SiRo... Just kidding You have been slayed.
+
+Quest:How can you know that it's 42? Hidden 33
+Task :Have 42 monsters on the screen.
+Award:All mobs now teleporting.
+
+Quest:You think that 2 monsters are good? 34
+Task :Stay at corner when wave spawns.
+Award:Teleport player into the middle, all mobs on the screen speed+==2.
+
+Quest:2EZ 35
+Task :Have 0 mobs on the screen 10 turns.
+Award:Spawn b@gcat.
+///!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!IDEAS!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+/// EVENTS like: blood moon(all mobs health*=2), BuqCity Hero(all mobs are unkillable while BuqCity Hero on the board), SPOOKY(monsters intellect-=2).
+
+///More locations.
+
+///Level system.
+
+///Different modes.(puzzle,time attack,survive)
+
+///Minigames(tic-tac-toe,three-in-a-row)
+
+///Minibosses(mobs with special skills(clone,illusion,heal for other) and color difference)
+
+///Bosses(every 200 turns all mobs disappearing(scares) and spawn very hard mob with special skills and color difference)
+
+///Craft
+
+Quest:We are the dragons! 36
+Task :Have 10 or more items on the board.
+Award:Clear the board from mobs and items ,spawn maze of walls.
+P.S passable.
+
+Quest:I'm really sorry.
+Task :Achieve 35 or 32 or 31 or 24 or 18 or 12 or 7 or 6.
+Award:Give "I'm really sorry." (POT) if used:"Not really sorry" kill message.At the start of next game give "Hope" (weapon) and "Dream" (armor).
+
+Quest:Somebody calls this freedom, I call this stupidness. 37
+Task :Kill 4 coinies.
+Award:Spawn Bankir.
